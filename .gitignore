@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ai_venv/
+.env
+*.jpg
+
+
+# Database
+*.db
+*.sqlite3
+db.sqlite3
+setup.sql
+
+# User-uploaded media
+media/
+
+# Django local settings
+#local_settings.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+.claude
+
+# Django migrations (optional; you can commit them but fine to ignore)
+# If you want to keep migrations, remove the line below
+# migrations/
